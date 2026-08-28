@@ -1,0 +1,7 @@
+import model loop_sm-ckm_no_b_mass
+define p = p b b~
+define j = j b b~
+define V = z
+generate p p > ta+ ta- V $$ h [QCD] @0
+add process p p > ta+ ta- V j $$ h [QCD] @1
+output ZZTo2B2Tau01j_5f_NLO_FXFX -nojpeg
