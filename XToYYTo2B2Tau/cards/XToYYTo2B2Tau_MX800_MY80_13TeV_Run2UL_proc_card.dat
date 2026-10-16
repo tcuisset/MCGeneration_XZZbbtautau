@@ -1,0 +1,10 @@
+import model HAHM_variableMW_v5_UFO
+
+# Declare a five-flavor proton for the Run-2 NNPDF3.1 setup.
+define p = g u c d s b u~ c~ d~ s~ b~
+
+# MG5 auto-converts the UFO scalar name hs (PDG 35) to h2.
+# The two identical zp bosons are assigned different decay chains explicitly.
+generate g g > h2, (h2 > zp zp, (zp > b b~), (zp > ta+ ta-))
+
+output XToYYTo2B2Tau_MX800_MY80_13TeV_Run2UL -nojpeg

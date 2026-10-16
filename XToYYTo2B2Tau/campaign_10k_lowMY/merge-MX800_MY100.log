@@ -1,0 +1,422 @@
+/usr/bin/bash: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+Copying 3424436 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_77.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_77.root.tmp
+Copying 3420988 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_25.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_25.root.tmp
+Copying 3419637 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_4.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_4.root.tmp
+Copying 3419573 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_95.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_95.root.tmp
+Copying 3418910 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_61.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_61.root.tmp
+Copying 3418295 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_37.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_37.root.tmp
+Copying 3416985 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_62.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_62.root.tmp
+Copying 3416940 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_38.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_38.root.tmp
+Copying 3416485 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_90.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_90.root.tmp
+Copying 3416361 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_22.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_22.root.tmp
+Copying 3416288 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_56.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_56.root.tmp
+Copying 3415910 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_40.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_40.root.tmp
+Copying 3415885 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_89.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_89.root.tmp
+Copying 3415623 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_42.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_42.root.tmp
+Copying 3415159 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_36.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_36.root.tmp
+Copying 3414799 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_91.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_91.root.tmp
+Copying 3414386 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_64.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_64.root.tmp
+Copying 3413940 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_2.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_2.root.tmp
+Copying 3413664 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_83.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_83.root.tmp
+Copying 3413639 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_45.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_45.root.tmp
+Copying 3413582 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_39.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_39.root.tmp
+Copying 3412918 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_30.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_30.root.tmp
+Copying 3412569 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_59.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_59.root.tmp
+Copying 3412380 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_5.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_5.root.tmp
+Copying 3411515 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_13.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_13.root.tmp
+Copying 3411477 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_44.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_44.root.tmp
+Copying 3411331 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_86.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_86.root.tmp
+Copying 3411290 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_9.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_9.root.tmp
+Copying 3411133 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_85.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_85.root.tmp
+Copying 3411023 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_99.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_99.root.tmp
+Copying 3410965 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_66.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_66.root.tmp
+Copying 3410921 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_81.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_81.root.tmp
+Copying 3410578 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_34.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_34.root.tmp
+Copying 3410325 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_1.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_1.root.tmp
+Copying 3410272 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_51.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_51.root.tmp
+Copying 3409958 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_8.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_8.root.tmp
+Copying 3409857 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_94.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_94.root.tmp
+Copying 3409656 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_7.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_7.root.tmp
+Copying 3409206 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_68.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_68.root.tmp
+Copying 3409072 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_72.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_72.root.tmp
+Copying 3408224 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_80.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_80.root.tmp
+Copying 3408149 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_24.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_24.root.tmp
+Copying 3407867 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_69.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_69.root.tmp
+Copying 3407648 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_21.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_21.root.tmp
+Copying 3407549 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_47.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_47.root.tmp
+Copying 3407199 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_46.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_46.root.tmp
+Copying 3406652 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_11.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_11.root.tmp
+Copying 3406545 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_54.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_54.root.tmp
+Copying 3406490 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_0.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_0.root.tmp
+Copying 3406378 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_88.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_88.root.tmp
+Copying 3406329 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_58.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_58.root.tmp
+Copying 3406185 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_92.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_92.root.tmp
+Copying 3405337 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_55.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_55.root.tmp
+Copying 3405078 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_74.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_74.root.tmp
+Copying 3404971 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_63.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_63.root.tmp
+Copying 3404940 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_27.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_27.root.tmp
+Copying 3404775 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_23.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_23.root.tmp
+Copying 3404555 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_57.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_57.root.tmp
+Copying 3404316 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_18.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_18.root.tmp
+Copying 3404058 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_17.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_17.root.tmp
+Copying 3403814 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_71.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_71.root.tmp
+Copying 3403814 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_84.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_84.root.tmp
+Copying 3403545 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_97.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_97.root.tmp
+Copying 3403257 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_43.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_43.root.tmp
+Copying 3402830 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_76.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_76.root.tmp
+Copying 3402821 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_82.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_82.root.tmp
+Copying 3402155 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_53.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_53.root.tmp
+Copying 3401669 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_32.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_32.root.tmp
+Copying 3401595 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_35.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_35.root.tmp
+Copying 3401575 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_48.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_48.root.tmp
+Copying 3401548 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_16.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_16.root.tmp
+Copying 3401429 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_28.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_28.root.tmp
+Copying 3401209 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_50.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_50.root.tmp
+Copying 3401193 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_98.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_98.root.tmp
+Copying 3400919 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_52.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_52.root.tmp
+Copying 3400765 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_65.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_65.root.tmp
+Copying 3400629 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_26.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_26.root.tmp
+Copying 3400489 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_33.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_33.root.tmp
+Copying 3400103 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_12.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_12.root.tmp
+Copying 3399712 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_73.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_73.root.tmp
+Copying 3399663 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_15.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_15.root.tmp
+Copying 3399095 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_60.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_60.root.tmp
+Copying 3399065 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_93.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_93.root.tmp
+Copying 3398615 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_41.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_41.root.tmp
+Copying 3397288 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_14.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_14.root.tmp
+Copying 3397256 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_96.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_96.root.tmp
+Copying 3396900 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_10.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_10.root.tmp
+Copying 3396479 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_67.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_67.root.tmp
+Copying 3396293 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_87.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_87.root.tmp
+Copying 3394447 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_78.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_78.root.tmp
+Copying 3394426 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_20.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_20.root.tmp
+Copying 3393074 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_75.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_75.root.tmp
+Copying 3392917 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_49.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_49.root.tmp
+Copying 3392905 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_6.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_6.root.tmp
+Copying 3392729 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_3.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_3.root.tmp
+Copying 3392726 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_70.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_70.root.tmp
+Copying 3392315 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_31.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_31.root.tmp
+Copying 3391682 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_29.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_29.root.tmp
+Copying 3390523 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_79.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_79.root.tmp
+Copying 3388625 bytes file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_19.root => file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_19.root.tmp
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_77.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_25.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_4.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_95.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_61.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_37.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_62.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_38.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_90.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_22.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_56.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_40.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_89.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_42.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_36.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_91.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_64.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_2.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_83.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_45.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_39.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_30.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_59.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_5.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_13.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_44.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_86.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_9.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_85.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_99.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_66.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_81.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_34.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_1.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_51.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_8.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_94.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_7.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_68.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_72.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_80.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_24.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_69.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_21.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_47.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_46.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_11.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_54.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_0.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_88.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_58.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_92.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_55.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_74.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_63.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_27.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_23.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_57.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_18.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_17.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_71.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_84.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_97.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_43.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_76.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_82.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_53.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_32.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_35.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_48.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_16.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_28.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_50.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_98.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_52.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_65.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_26.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_33.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_12.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_73.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_15.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_60.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_93.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_41.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_14.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_96.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_10.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_67.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_87.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_78.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_20.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_75.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_49.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_6.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_3.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_70.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_31.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_29.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_79.root
+Adding file /scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/input/Ntuple_19.root
+Merging tag
+Merging Events
+Merging LuminosityBlocks
+Merging Runs
+Merging MetaData
+Merging ParameterSets
+Copying 333740091 bytes file:///scratch/cuisset/tmp/XToYYTo2B2Tau_MX800_MY100_merge.f5CO0F/merged/XToYYTo2B2Tau_MX800_MY100_NanoAOD_0.root => file:///grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/merged_NanoAOD/MX800_MY100/XToYYTo2B2Tau_MX800_MY100_NanoAOD.tmp/XToYYTo2B2Tau_MX800_MY100_NanoAOD_0.root.tmp
+Created 100 input blocks:
+ block #0: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_0.root (3.2 MiB)
+ block #1: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_1.root (3.3 MiB)
+ block #2: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_10.root (3.2 MiB)
+ block #3: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_11.root (3.2 MiB)
+ block #4: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_12.root (3.2 MiB)
+ block #5: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_13.root (3.3 MiB)
+ block #6: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_14.root (3.2 MiB)
+ block #7: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_15.root (3.2 MiB)
+ block #8: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_16.root (3.2 MiB)
+ block #9: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_17.root (3.2 MiB)
+ block #10: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_18.root (3.2 MiB)
+ block #11: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_19.root (3.2 MiB)
+ block #12: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_2.root (3.3 MiB)
+ block #13: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_20.root (3.2 MiB)
+ block #14: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_21.root (3.2 MiB)
+ block #15: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_22.root (3.3 MiB)
+ block #16: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_23.root (3.2 MiB)
+ block #17: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_24.root (3.3 MiB)
+ block #18: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_25.root (3.3 MiB)
+ block #19: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_26.root (3.2 MiB)
+ block #20: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_27.root (3.2 MiB)
+ block #21: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_28.root (3.2 MiB)
+ block #22: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_29.root (3.2 MiB)
+ block #23: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_3.root (3.2 MiB)
+ block #24: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_30.root (3.3 MiB)
+ block #25: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_31.root (3.2 MiB)
+ block #26: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_32.root (3.2 MiB)
+ block #27: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_33.root (3.2 MiB)
+ block #28: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_34.root (3.3 MiB)
+ block #29: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_35.root (3.2 MiB)
+ block #30: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_36.root (3.3 MiB)
+ block #31: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_37.root (3.3 MiB)
+ block #32: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_38.root (3.3 MiB)
+ block #33: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_39.root (3.3 MiB)
+ block #34: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_4.root (3.3 MiB)
+ block #35: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_40.root (3.3 MiB)
+ block #36: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_41.root (3.2 MiB)
+ block #37: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_42.root (3.3 MiB)
+ block #38: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_43.root (3.2 MiB)
+ block #39: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_44.root (3.3 MiB)
+ block #40: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_45.root (3.3 MiB)
+ block #41: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_46.root (3.2 MiB)
+ block #42: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_47.root (3.2 MiB)
+ block #43: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_48.root (3.2 MiB)
+ block #44: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_49.root (3.2 MiB)
+ block #45: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_5.root (3.3 MiB)
+ block #46: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_50.root (3.2 MiB)
+ block #47: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_51.root (3.3 MiB)
+ block #48: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_52.root (3.2 MiB)
+ block #49: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_53.root (3.2 MiB)
+ block #50: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_54.root (3.2 MiB)
+ block #51: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_55.root (3.2 MiB)
+ block #52: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_56.root (3.3 MiB)
+ block #53: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_57.root (3.2 MiB)
+ block #54: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_58.root (3.2 MiB)
+ block #55: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_59.root (3.3 MiB)
+ block #56: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_6.root (3.2 MiB)
+ block #57: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_60.root (3.2 MiB)
+ block #58: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_61.root (3.3 MiB)
+ block #59: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_62.root (3.3 MiB)
+ block #60: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_63.root (3.2 MiB)
+ block #61: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_64.root (3.3 MiB)
+ block #62: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_65.root (3.2 MiB)
+ block #63: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_66.root (3.3 MiB)
+ block #64: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_67.root (3.2 MiB)
+ block #65: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_68.root (3.3 MiB)
+ block #66: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_69.root (3.2 MiB)
+ block #67: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_7.root (3.3 MiB)
+ block #68: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_70.root (3.2 MiB)
+ block #69: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_71.root (3.2 MiB)
+ block #70: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_72.root (3.3 MiB)
+ block #71: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_73.root (3.2 MiB)
+ block #72: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_74.root (3.2 MiB)
+ block #73: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_75.root (3.2 MiB)
+ block #74: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_76.root (3.2 MiB)
+ block #75: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_77.root (3.3 MiB)
+ block #76: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_78.root (3.2 MiB)
+ block #77: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_79.root (3.2 MiB)
+ block #78: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_8.root (3.3 MiB)
+ block #79: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_80.root (3.3 MiB)
+ block #80: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_81.root (3.3 MiB)
+ block #81: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_82.root (3.2 MiB)
+ block #82: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_83.root (3.3 MiB)
+ block #83: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_84.root (3.2 MiB)
+ block #84: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_85.root (3.3 MiB)
+ block #85: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_86.root (3.3 MiB)
+ block #86: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_87.root (3.2 MiB)
+ block #87: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_88.root (3.2 MiB)
+ block #88: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_89.root (3.3 MiB)
+ block #89: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_9.root (3.3 MiB)
+ block #90: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_90.root (3.3 MiB)
+ block #91: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_91.root (3.3 MiB)
+ block #92: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_92.root (3.2 MiB)
+ block #93: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_93.root (3.2 MiB)
+ block #94: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_94.root (3.3 MiB)
+ block #95: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_95.root (3.3 MiB)
+ block #96: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_96.root (3.2 MiB)
+ block #97: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_97.root (3.2 MiB)
+ block #98: 1 files, 3.2 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_98.root (3.2 MiB)
+ block #99: 1 files, 3.3 MiB total
+    /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/MX800_MY100/Step_6/Ntuple_99.root (3.3 MiB)
+Merging 100 input files into XToYYTo2B2Tau_MX800_MY100_NanoAOD_0.root...
+Done. Expected size = 324.8 MiB, actual size = 318.3 MiB.
+Moving merged files into the final location and removing temporary files.
+All inputs have been merged.
+merge complete: MX800_MY100
+report: /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_lowMY/merged_NanoAOD/report-MX800_MY100.json

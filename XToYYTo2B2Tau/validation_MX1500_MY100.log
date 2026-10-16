@@ -1,0 +1,80 @@
+%MSG-MG5 number of events requested = 8
+%MSG-MG5 random seed used for the run = 1500100
+%MSG-MG5 number of cpus = 4
+%MSG-MG5 SCRAM_ARCH version = slc7_amd64_gcc700
+%MSG-MG5 CMSSW version = CMSSW_10_6_47
+WARNING: In non-interactive mode release checks e.g. deprecated releases, production architectures are disabled.
+Running MG5_aMC for the 1 time
+produced_lhe  0 nevt  8 submitting_event  8  remaining_event  8
+run.sh 8 15001000
+Now generating 8 events with random seed 15001000 and granularity 1
+************************************************************
+*                                                          *
+*                      W E L C O M E to                    *
+*             M A D G R A P H 5 _ a M C @ N L O            *
+*                      M A D E V E N T                     *
+*                                                          *
+*                 *                       *                *
+*                   *        * *        *                  *
+*                     * * * * 5 * * * *                    *
+*                   *        * *        *                  *
+*                 *                       *                *
+*                                                          *
+*         VERSION 2.9.18                                   *
+*                                                          *
+*    The MadGraph5_aMC@NLO Development Team - Find us at   *
+*    https://server06.fynu.ucl.ac.be/projects/madgraph     *
+*                                                          *
+*               Type 'help' for in-line help.              *
+*                                                          *
+************************************************************
+INFO: load configuration from /tmp/cuisset/x2y_MX1500_MY100.Bl88OT/process/madevent/Cards/me5_configuration.txt  
+INFO: load configuration from /tmp/cuisset/x2y_MX1500_MY100.Bl88OT/mgbasedir/input/mg5_configuration.txt  
+INFO: load configuration from /tmp/cuisset/x2y_MX1500_MY100.Bl88OT/process/madevent/Cards/me5_configuration.txt  
+No valid eps viewer found. Please set in ./input/mg5_configuration.txt
+No valid web browser found. Please set in ./input/mg5_configuration.txt
+WRITE GRIDCARD /tmp/cuisset/x2y_MX1500_MY100.Bl88OT/process/madevent
+generate 8 events
+[1;34mHelicity recycling optimization requires Python3. This optimzation is therefore deactivated automatically. 
+            In general this optimization speed up the computation be a factor of two.[0m
+P1_gg_h2_h2_zpzp_zp_bbx_zp_taptam
+Using random number seed offset = 15001000
+INFO: Generating 8.0 unweighted events. 
+sum of cpu time of last step: 1 seconds
+INFO: need to improve 1 channels 
+combine_events
+[1;34mHelicity recycling optimization requires Python3. This optimzation is therefore deactivated automatically. 
+            In general this optimization speed up the computation be a factor of two.[0m
+store_events
+  === Results Summary for run: GridRun_15001000 tag: tag_1 ===
+
+     Cross-section :   0 +- 0 pb
+     Nb of events :  8
+ 
+decay_events -from_cards
+DONE
+write ./events.lhe.gz
+run 1 finished, total number of produced events: 8/8
+
+-rw-r--r-- 1 cuisset cms 8874 Oct  2 15:16 events_1.lhe.gz
+run finished, produced number of events:
+8
+/tmp/cuisset/x2y_MX1500_MY100.Bl88OT/process/madevent /tmp/cuisset/x2y_MX1500_MY100.Bl88OT
+Skipping automatic PDF/scale weights: no Run-2 campaign list packaged
+/tmp/cuisset/x2y_MX1500_MY100.Bl88OT
+
+Run xml check
+Number of weights that are NaN:
+0
+All checks passed 
+
+total 152
+drwxr-xr-x 17 cuisset cms  4096 Oct  2 15:16 CMSSW_10_6_47
+drwxr-xr-x  2 cuisset cms  4096 Oct  2 15:11 InputCards
+-rw-r--r--  1 cuisset cms 38977 Oct  2 15:16 cmsgrid_final.lhe
+-rw-r--r--  1 cuisset cms 77601 Oct  2 15:11 gridpack_generation.log
+-rwxr-xr-x  1 cuisset cms 11617 Oct  2 15:11 merge.pl
+drwxr-xr-x 14 cuisset cms  4096 Oct  2 15:11 mgbasedir
+drwxr-xr-x  3 cuisset cms  4096 Oct  2 15:16 process
+-rwxr-xr-x  1 cuisset cms  7797 Oct  2 15:11 runcmsgrid.sh
+events=8 bad_topology=0 mean_mX=1500.171 mean_mY=100.056

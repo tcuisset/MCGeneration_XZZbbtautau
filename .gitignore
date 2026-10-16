@@ -2,3 +2,15 @@ jobs
 DNNTrainingSamples
 cmsReleases
 ZZTo2B2Tau01j_5f_NLO_FXFX-genProductions
+__pycache__
+.SCRAM
+**/*_gridpack/config/
+mgbasedir
+madevent
+
+*.lhe.gz
+**/*_gridpack/work/*
+#**/work/MG5_*/
+!**/*_gridpack/work/*/gridpack
+
+*.root

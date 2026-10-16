@@ -352,6 +352,19 @@ multi_conf_dict["ZbbHtt_18_v2"] = copy.deepcopy(multi_conf_dict["ZbbHtt_v1"])
 del multi_conf_dict["ZbbHtt_18_v2"][0]["cmsDriver"]
 multi_conf_dict["ZbbHtt_18_v2"][0]["cfg"] = "LHEGEN_ZbbHtt_tauGenJetsFilter_18.py"
 
+# X -> YY -> bbtautau Run-2 UL18 production.  Reuse the detector-simulation
+# chain validated for ZZ -> bbtautau, changing only the LHE/GEN fragment.
+multi_conf_dict["XToYYTo2B2Tau_18_v1"] = copy.deepcopy(multi_conf_dict["ZZbbtt_v1"])
+multi_conf_dict["XToYYTo2B2Tau_18_v1"][0]["cmsDriver"] = (
+    multi_conf_dict["XToYYTo2B2Tau_18_v1"][0]["cmsDriver"].replace(
+        "ZZbbtt_fragment.py",
+        "XToYYTo2B2Tau_MX1000_MY200_13TeV_Run2UL18_cfi.py",
+    )
+)
+assert "XToYYTo2B2Tau_MX1000_MY200_13TeV_Run2UL18_cfi.py" in (
+    multi_conf_dict["XToYYTo2B2Tau_18_v1"][0]["cmsDriver"]
+)
+
 multi_conf_dict["ZbbHtt_17_v2"] = copy.deepcopy(multi_conf_dict["ZbbHtt_17_v1"])
 del multi_conf_dict["ZbbHtt_17_v2"][0]["cmsDriver"]
 multi_conf_dict["ZbbHtt_17_v2"][0]["cfg"] = "LHEGEN_ZbbHtt_tauGenJetsFilter_17.py"

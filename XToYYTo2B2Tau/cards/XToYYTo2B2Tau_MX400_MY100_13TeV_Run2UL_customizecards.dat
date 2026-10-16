@@ -1,0 +1,17 @@
+# HAHM physical input masses
+set param_card hidden 1 1.000000e+02
+set param_card hidden 2 4.000000e+02
+
+# Non-zero mixings activate gg->h2, h2->zp zp, and zp->ff vertices.
+# Rates and native branching fractions are not used for normalization.
+set param_card hidden 3 1.000000e-03
+set param_card hidden 4 1.000000e-02
+set param_card hidden 5 1.279000e+02
+
+# Keep explicit MASS entries synchronized with the HIDDEN physical inputs.
+set param_card mass 35 4.000000e+02
+set param_card mass 1023 1.000000e+02
+
+# Narrow-width topology benchmark: Gamma/m = 0.1% for both resonances.
+set param_card DECAY 35 4.000000e-01
+set param_card DECAY 1023 1.000000e-01

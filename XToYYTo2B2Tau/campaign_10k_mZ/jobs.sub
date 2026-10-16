@@ -1,0 +1,31 @@
+universe = vanilla
+executable = /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_mZ/run_fullsim.sh
+arguments = $(Point) $(JobIdx) $(FirstLumi) $(SeedBase) $(Fragment) $(Gridpack)
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_output_files = ""
+getenv = false
+environment = "CLUSTER_ID=$(ClusterId) PROC_ID=$(ProcId)"
+
+output = /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_mZ/$(Point)/jobs/$(JobIdx)/job_$(JobIdx).$(ClusterId).$(ProcId).o
+error = /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_mZ/$(Point)/jobs/$(JobIdx)/job_$(JobIdx).$(ClusterId).$(ProcId).e
+log = /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_mZ/cluster.$(ClusterId).log
+
+batch_name = XToYYTo2B2Tau_UL18_10k_mZ_x2
+request_memory = 8GB
+request_disk = 10GB
+request_cpus = 8
+
+max_materialize = 100
+max_idle = 100
+
+T3Queue = long
+WNTag = el9
++SingularityCmd = "/grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/framework/el7_container"
+include : /opt/exp_soft/cms/t3/t3queue |
+
+if !defined JobList
+  JobList = /grid_mnt/data__data.polcms/cms/cuisset/ZHbbtautau/jobs/XToYYTo2B2Tau_fullsim_UL18_10k_mZ/items.txt
+endif
+queue Point,JobIdx,FirstLumi,SeedBase,Fragment,Gridpack from $(JobList)
